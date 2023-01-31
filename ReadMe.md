@@ -6,10 +6,11 @@
 
 
 <h3 align="center">
-I am Full-Stack Developer with a particular interest in making UX beyond great. I consider myself imaginative, open-minded, well-organized and outgoing with coordination and interpersonal skills. I also care a lot about other realities, so I would love to work in proyects that involve real causes. 
-
-
+I am Full-Stack Developer with a particular interest in making UX beyond great. I consider myself imaginative, open-minded, well-organized and outgoing with coordination and interpersonal skills. I also care a lot about other realities, so I would love to work in proyects that involve real causes. </h3>
+<br/>
+<h3 align="center">
 EXPERIENCE:
+
 In the last time I have worked on building a Single Page Application, my tools were: 
 Frontend: ReactJS, Redux, CSS
 Backend: NodeJS, ExpressJS
@@ -59,6 +60,7 @@ TECH SKILLS:
 </p>
 
 <br/>
-
+<br/>
+<br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maguiromeroa&show_icons=true&locale=en&layout=compact" alt="maguiromeroa" /></p>
