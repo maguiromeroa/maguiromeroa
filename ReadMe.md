@@ -8,6 +8,7 @@
 <br/>
 <h3 align="center">
 ABOUT ME
+
 I am Full-Stack Developer with a particular interest in making UX beyond great. I consider myself imaginative, open-minded, well-organized and outgoing with coordination and interpersonal skills. I also care a lot about other realities, so I would love to work in proyects that involve real causes. </h3>
 
 <h3 align="center">
@@ -27,6 +28,7 @@ Here is the link if you want to take a look: https://proyecto-final-pf.vercel.ap
 
 
 SOFT SKILLS:
+
 • Effective communication
 • Cooperation
 • Empathy
@@ -36,6 +38,7 @@ SOFT SKILLS:
 
 
 TECH SKILLS:
+
 • JavaScript
 • React
 • NextJs
@@ -53,7 +56,7 @@ TECH SKILLS:
 • Mongoose</h3>
 
 
-
+<br/>
 
 - 📫 How to reach me **maguiromeroa@gmail.com**
 <h3 align="left">Connect with me:</h3>
